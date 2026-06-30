@@ -2,6 +2,11 @@
 A simple and responsive resume website built using HTML and CSS. This project presents personal and professional information in a clean, modern, and easy-to-read layout.
 ---
 
+live view https://mayankbisht1511-commits.github.io/revamp/
+
+
+
+
 🚀 Features
 Clean and professional resume design
 Responsive layout
@@ -14,6 +19,10 @@ Certifications
 Contact information
 LinkedIn and GitHub links
 ---
+
+
+
+
 
 🛠️ Technologies Used
 HTML5
