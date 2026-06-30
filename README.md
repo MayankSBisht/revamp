@@ -65,9 +65,6 @@ Resume/
 
 💻 GitHub: https://github.com/mayankbisht1511-commits
 
----
-
-
 
 ⭐ If you like this project, consider giving it a star on GitHub!https://mayankbisht1511-commits.github.io/revamp/
  
